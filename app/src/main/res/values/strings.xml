@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TA_RESTORAN</string>
+    <string name="black">black</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="nama_pelanggan">NAMA PELANGGAN</string>
+    <string name="nomor_meja">NOMOR MEJA</string>
+    <string name="nama_pesanan">NAMA PESANAN</string>
+    <string name="save">SAVE</string>
+    <string name="lihat">LIHAT</string>
+
+    <string name="notification_channel_name">Mascot Notification</string>
+    <string name="notification_channel_description">Notification from Mascot</string>
+</resources>
